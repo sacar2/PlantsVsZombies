@@ -1,4 +1,4 @@
-Recreated the Plants Vs. ZombiesTM game by PopCap Games for my second year software engineering project at Western University. 
+Recreated the Plants Vs. ZombiesTM game by PopCap Games for my second year software engineering project at Western University. Coded in C++ in Qt Creator IDE.
 
 This repo is not the completed version, but does feature:
 
@@ -6,4 +6,3 @@ This repo is not the completed version, but does feature:
 - A point system(collecting randombly falling suns)
 - Various players to choose from 
 - Various enemy zombies characters that appear based on level played 
-- Coded in C++ in Qt Creator IDE
